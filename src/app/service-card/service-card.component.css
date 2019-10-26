@@ -1,0 +1,14 @@
+a:hover {
+  -webkit-text-decoration: underline #ca8771;
+          text-decoration: underline #ca8771;
+  font-weight: bold;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background-color: white;
+  -webkit-text-decoration: underline #ca8771;
+          text-decoration: underline #ca8771;
+  font-weight: bold;
+}
+/*# sourceMappingURL=service-card.component.css.map */
